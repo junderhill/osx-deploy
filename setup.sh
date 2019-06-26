@@ -9,11 +9,11 @@ brew install tmux
 
 brew install vim
 
-brew install spectacle
+brew cask install spectacle
 
-brew install alfred
+brew cask install alfred
 
-brew install visual-studio-code
+brew cask install visual-studio-code
 
 brew install git
 
