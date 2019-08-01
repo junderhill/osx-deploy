@@ -21,6 +21,8 @@ brew cask install spectacle
 
 brew cask install alfred
 
+brew install keepassxc
+
 brew cask install visual-studio-code
 
 brew tap homebrew/cask-fonts
